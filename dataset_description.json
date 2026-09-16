@@ -1,7 +1,7 @@
 {
     "Name": "2023_HeartBEAM",
     "BIDSVersion": "1.8.0",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Kaoru Nashiro",
         "Hyun Joo Yoo",
@@ -12,15 +12,15 @@
         "Hye Rynn J. Lee",
         "Noah Mercer",
         "Jeiran Choupan",
-		"Andy Jeesu Kim",
-		"Kalekirstos Alemu",
-		"Julian F. Thayer",
-		"Elizabeth Head",
+        "Andy Jeesu Kim",
+        "Kalekirstos Alemu",
+        "Julian F. Thayer",
+        "Elizabeth Head",
         "Mara Mather"
-        ],
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [],
     "ReferencesAndLinks": [],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds008826.v1.0.0"
 }
