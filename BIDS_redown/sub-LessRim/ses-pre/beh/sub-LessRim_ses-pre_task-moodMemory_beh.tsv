@@ -1,0 +1,2 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	preamble	bad_mood	neutral_mood	good_mood
+2023-03-11T02:58:57	True	1536x864	46049	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36	1.8.6	Please reflect on the last seven days. <br> What percentage of time would you estimate you were in a good mood, bad mood, and neutral mood? <br> These three states should add up to 100%. 	25	25	50

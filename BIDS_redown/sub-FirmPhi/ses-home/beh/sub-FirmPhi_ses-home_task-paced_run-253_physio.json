@@ -1,0 +1,15 @@
+{
+  "StartTime": 606.772689,
+  "EndDateTime": "2023-04-22T09:28:35-07:00",
+  "DurationMs": 300000,
+  "AvgCoherence": 1.4858766636322485,
+  "Stage": 3,
+  "BreathsPerMinute": 15,
+  "HoldPosition": "postInhale",
+  "Randomize": true,
+  "IsBestCount": 0,
+  "SamplingFrequency": 9999,
+  "Columns": [
+    "RR"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "StartTime": 617.1472740000002,
+  "EndDateTime": "2023-03-31T10:38:30-07:00",
+  "DurationMs": 300000,
+  "AvgCoherence": 4.674554694308169,
+  "Stage": 3,
+  "BreathsPerMinute": 3.5,
+  "HoldPosition": "n/a",
+  "Randomize": false,
+  "IsBestCount": 1,
+  "SamplingFrequency": 9999,
+  "Columns": [
+    "RR"
+  ]
+}
