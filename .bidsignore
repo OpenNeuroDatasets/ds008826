@@ -1,9 +1,4 @@
-*_physio.tsv.gz
-*_physio.json
-*.nii.gz
-*.T1w.json
-*.T2w.json
-*.FLAIR.json
-*.PDw.json
+/*/*/anat
+/*/*/beh
 /phenotype/*
 /derivatives/*
