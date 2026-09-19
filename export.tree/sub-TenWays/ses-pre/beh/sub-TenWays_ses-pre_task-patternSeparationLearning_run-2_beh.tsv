@@ -1,0 +1,58 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	trial_index	stimulus	is_learning	is_practice	pic	type	response	response_time_ms	failed_images
+2023-07-06T18:08:37	False	n/a	2339	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	[]
+2023-07-06T18:08:39	False	n/a	4070	n/a	n/a	2	<h2>Pattern Separation Task</h2>\\ <p>\\ You are about to start a new task. In this task, you will be asked to view a series of common objects and remember them for a later memory test.\\ You will see 30 objects twice. For the first round you will be asked, \\\"Will the object fit inside a lady's medium shoe box?\\\" For the second round you will be asked, \\\"Can you carry the object across the room using only your right hand?\\\" Please answer the question presented underneath the object by pressing \\\"y\\\" for \\\"yes\\\" or \\\"n\\\" for \\\"no\\\" and try to remember them for a later memory test. Please note that the memory test will be given about 20 minutes after seeing all images. \\ </p>\\ <em>Please press the space bar to continue</em>\\ 	n/a	n/a	n/a	n/a	n/a	1723	n/a
+2023-07-06T18:08:40	False	n/a	5194	n/a	n/a	3	<h2>Round 1</h2><div>Will the object fit inside a lady's medium shoe box?</div><em>Please press the space bar to continue</em>	n/a	n/a	n/a	n/a	n/a	1119	n/a
+2023-07-06T18:08:43	True	n/a	8210	n/a	n/a	4	https://d3vowlh1lzbs4j.cloudfront.net/pat/diapers1.jpg	True	n/a	diapers1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:08:44	False	n/a	9021	n/a	n/a	5	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:08:47	True	n/a	12040	n/a	n/a	6	https://d3vowlh1lzbs4j.cloudfront.net/pat/microwave_old1.jpg	True	n/a	microwave_old1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:08:47	False	n/a	12849	n/a	n/a	7	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:08:50	True	n/a	15861	n/a	n/a	8	https://d3vowlh1lzbs4j.cloudfront.net/pat/old_alarmclock1.jpg	True	n/a	old_alarmclock1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:08:51	False	n/a	16680	n/a	n/a	9	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:08:54	True	n/a	19690	n/a	n/a	10	https://d3vowlh1lzbs4j.cloudfront.net/pat/book_objects1.jpg	True	n/a	book_objects1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:08:55	False	n/a	20509	n/a	n/a	11	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:08:58	True	n/a	23520	n/a	n/a	12	https://d3vowlh1lzbs4j.cloudfront.net/pat/caterpillar1.jpg	True	n/a	caterpillar1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:08:59	False	n/a	24340	n/a	n/a	13	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:02	True	n/a	27350	n/a	n/a	14	https://d3vowlh1lzbs4j.cloudfront.net/pat/drumset1.jpg	True	n/a	drumset1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:03	False	n/a	28169	n/a	n/a	15	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:06	True	n/a	31180	n/a	n/a	16	https://d3vowlh1lzbs4j.cloudfront.net/pat/key_chain1.jpg	True	n/a	key_chain1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:07	False	n/a	31999	n/a	n/a	17	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:10	True	n/a	35010	n/a	n/a	18	https://d3vowlh1lzbs4j.cloudfront.net/pat/football1.jpg	True	n/a	football1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:10	False	n/a	35829	n/a	n/a	19	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:13	True	n/a	38840	n/a	n/a	20	https://d3vowlh1lzbs4j.cloudfront.net/pat/euro501.jpg	True	n/a	euro501.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:14	False	n/a	39659	n/a	n/a	21	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:17	True	n/a	42670	n/a	n/a	22	https://d3vowlh1lzbs4j.cloudfront.net/pat/first_place1.jpg	True	n/a	first_place1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:18	False	n/a	43490	n/a	n/a	23	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:21	True	n/a	46500	n/a	n/a	24	https://d3vowlh1lzbs4j.cloudfront.net/pat/pen_green1.jpg	True	n/a	pen_green1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:22	False	n/a	47320	n/a	n/a	25	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:25	True	n/a	50330	n/a	n/a	26	https://d3vowlh1lzbs4j.cloudfront.net/pat/arrow_target1.jpg	True	n/a	arrow_target1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:26	False	n/a	51160	n/a	n/a	27	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:29	True	n/a	54170	n/a	n/a	28	https://d3vowlh1lzbs4j.cloudfront.net/pat/snare_drum1.jpg	True	n/a	snare_drum1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:30	False	n/a	54980	n/a	n/a	29	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:33	True	n/a	58010	n/a	n/a	30	https://d3vowlh1lzbs4j.cloudfront.net/pat/red_box1.jpg	True	n/a	red_box1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:33	False	n/a	58821	n/a	n/a	31	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:36	True	n/a	61851	n/a	n/a	32	https://d3vowlh1lzbs4j.cloudfront.net/pat/box_of_nails1.jpg	True	n/a	box_of_nails1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:37	False	n/a	62661	n/a	n/a	33	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:40	True	n/a	65691	n/a	n/a	34	https://d3vowlh1lzbs4j.cloudfront.net/pat/bulldozer1.jpg	True	n/a	bulldozer1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:41	False	n/a	66500	n/a	n/a	35	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:44	True	n/a	69511	n/a	n/a	36	https://d3vowlh1lzbs4j.cloudfront.net/pat/golf_bag1.jpg	True	n/a	golf_bag1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:45	False	n/a	70320	n/a	n/a	37	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:48	True	n/a	73331	n/a	n/a	38	https://d3vowlh1lzbs4j.cloudfront.net/pat/computer_keys1.jpg	True	n/a	computer_keys1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:49	False	n/a	74151	n/a	n/a	39	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:52	True	n/a	77160	n/a	n/a	40	https://d3vowlh1lzbs4j.cloudfront.net/pat/coffee_maker1.jpg	True	n/a	coffee_maker1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:53	False	n/a	77971	n/a	n/a	41	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:56	True	n/a	81000	n/a	n/a	42	https://d3vowlh1lzbs4j.cloudfront.net/pat/crayon1.jpg	True	n/a	crayon1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:09:56	False	n/a	81811	n/a	n/a	43	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:09:59	True	n/a	84840	n/a	n/a	44	https://d3vowlh1lzbs4j.cloudfront.net/pat/hockey_stick1.jpg	True	n/a	hockey_stick1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:00	False	n/a	85651	n/a	n/a	45	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:03	True	n/a	88680	n/a	n/a	46	https://d3vowlh1lzbs4j.cloudfront.net/pat/chutes_and_ladders1.jpg	True	n/a	chutes_and_ladders1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:04	False	n/a	89490	n/a	n/a	47	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:07	True	n/a	92501	n/a	n/a	48	https://d3vowlh1lzbs4j.cloudfront.net/pat/belt1.jpg	True	n/a	belt1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:08	False	n/a	93320	n/a	n/a	49	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:11	True	n/a	96331	n/a	n/a	50	https://d3vowlh1lzbs4j.cloudfront.net/pat/baby_toy1.jpg	True	n/a	baby_toy1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:12	False	n/a	97150	n/a	n/a	51	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:15	True	n/a	100160	n/a	n/a	52	https://d3vowlh1lzbs4j.cloudfront.net/pat/domino1.jpg	True	n/a	domino1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:16	False	n/a	100980	n/a	n/a	53	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:19	True	n/a	104016	n/a	n/a	54	https://d3vowlh1lzbs4j.cloudfront.net/pat/school_bag1.jpg	True	n/a	school_bag1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:19	False	n/a	104840	n/a	n/a	55	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-07-06T18:10:22	True	n/a	107851	n/a	n/a	56	https://d3vowlh1lzbs4j.cloudfront.net/pat/polar_bear1.jpg	True	n/a	polar_bear1.jpg	Target	n/a	n/a	n/a
+2023-07-06T18:10:23	False	n/a	108670	n/a	n/a	57	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a

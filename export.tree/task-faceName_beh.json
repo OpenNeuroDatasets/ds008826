@@ -1,0 +1,88 @@
+{
+    "TaskName": "Face-Name Association",
+    "TaskDescription": "Task assessing learning and recall of associations between faces and names.",
+    "date_time": {
+        "Description": "UTC date and time at which the record was created.",
+        "Format": "datetime"
+    },
+    "is_relevant": {
+        "Description": "Whether the row contains a task-relevant observation rather than instructions, a cue, or another non-scored event.",
+        "Levels": {
+            "True": "Task-relevant row",
+            "False": "Non-scored or contextual row"
+        }
+    },
+    "screen_size": {
+        "Description": "Screen dimensions reported by the web application in width-by-height pixels."
+    },
+    "time_elapsed_ms": {
+        "Description": "Elapsed time from task start when the record was created.",
+        "Units": "ms"
+    },
+    "ua": {
+        "LongName": "User agent",
+        "Description": "Browser user-agent string recorded by the web application."
+    },
+    "version": {
+        "Description": "Version of the study web application used to administer the task."
+    },
+    "trial_index": {
+        "Description": "Sequential trial or event index assigned by the task application."
+    },
+    "stimulus": {
+        "Description": "Stimulus, instructions, cue, or resource presented; may contain text, HTML, or a resource URL."
+    },
+    "response": {
+        "Description": "Selected response option using original numeric coding."
+    },
+    "category": {
+        "Description": "Age-group and gender category of the depicted face."
+    },
+    "is_learning": {
+        "Description": "Whether the row belongs to learning.",
+        "Levels": {
+            "True": "Learning",
+            "False": "Not learning"
+        }
+    },
+    "is_practice": {
+        "Description": "Whether the row is practice.",
+        "Levels": {
+            "True": "Practice",
+            "False": "Non-practice"
+        }
+    },
+    "is_recall": {
+        "Description": "Whether the row belongs to recall.",
+        "Levels": {
+            "True": "Recall",
+            "False": "Not recall"
+        }
+    },
+    "name": {
+        "Description": "Name paired with the face during learning."
+    },
+    "names": {
+        "Description": "Serialized list of candidate names."
+    },
+    "pic_id": {
+        "Description": "Face-image identifier or filename."
+    },
+    "lure": {
+        "Description": "Incorrect alternative name used during recall."
+    },
+    "correct": {
+        "Description": "Whether the participant response was scored as correct.",
+        "Levels": {
+            "True": "Correct",
+            "False": "Incorrect"
+        }
+    },
+    "response_time_ms": {
+        "Description": "Response latency recorded by the task application.",
+        "Units": "ms"
+    },
+    "failed_images": {
+        "Description": "Serialized list of image resources that failed to load; an empty list indicates no recorded failures."
+    }
+}

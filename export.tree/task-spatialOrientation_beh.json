@@ -1,0 +1,75 @@
+{
+    "TaskName": "Spatial Orientation",
+    "TaskDescription": "Task assessing spatial perspective taking and orientation judgments.",
+    "date_time": {
+        "Description": "UTC date and time at which the record was created.",
+        "Format": "datetime"
+    },
+    "is_relevant": {
+        "Description": "Whether the row contains a task-relevant observation rather than instructions, a cue, or another non-scored event.",
+        "Levels": {
+            "True": "Task-relevant row",
+            "False": "Non-scored or contextual row"
+        }
+    },
+    "screen_size": {
+        "Description": "Screen dimensions reported by the web application in width-by-height pixels."
+    },
+    "time_elapsed_ms": {
+        "Description": "Elapsed time from task start when the record was created.",
+        "Units": "ms"
+    },
+    "ua": {
+        "LongName": "User agent",
+        "Description": "Browser user-agent string recorded by the web application."
+    },
+    "version": {
+        "Description": "Version of the study web application used to administer the task."
+    },
+    "trial_index": {
+        "Description": "Sequential trial or event index assigned by the task application."
+    },
+    "stimulus": {
+        "Description": "Stimulus, instructions, cue, or resource presented; may contain text, HTML, or a resource URL."
+    },
+    "mode": {
+        "Description": "Task stage.",
+        "Levels": {
+            "example": "Example",
+            "practice": "Practice",
+            "test": "Test"
+        }
+    },
+    "center": {
+        "Description": "Object at the center of the spatial scene."
+    },
+    "facing": {
+        "Description": "Object toward which the imagined observer is facing."
+    },
+    "target": {
+        "Description": "Object whose direction the participant indicates."
+    },
+    "target_radians": {
+        "Description": "Correct angular direction of the target.",
+        "Units": "rad"
+    },
+    "response_radians": {
+        "Description": "Angular direction indicated by the participant.",
+        "Units": "rad"
+    },
+    "response_time_ms": {
+        "Description": "Response latency recorded by the task application.",
+        "Units": "ms"
+    },
+    "signed_radian_distance": {
+        "Description": "Signed angular difference between target and response.",
+        "Units": "rad"
+    },
+    "time_limit_ms": {
+        "Description": "Remaining or assigned response time limit.",
+        "Units": "ms"
+    },
+    "completion_reason": {
+        "Description": "Reason the trial ended."
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "TaskName": "N-Back",
+    "TaskDescription": "Working-memory task with zero-back, one-back, and two-back conditions.",
+    "date_time": {
+        "Description": "UTC date and time at which the record was created.",
+        "Format": "datetime"
+    },
+    "is_relevant": {
+        "Description": "Whether the row contains a task-relevant observation rather than instructions, a cue, or another non-scored event.",
+        "Levels": {
+            "True": "Task-relevant row",
+            "False": "Non-scored or contextual row"
+        }
+    },
+    "screen_size": {
+        "Description": "Screen dimensions reported by the web application in width-by-height pixels."
+    },
+    "time_elapsed_ms": {
+        "Description": "Elapsed time from task start when the record was created.",
+        "Units": "ms"
+    },
+    "ua": {
+        "LongName": "User agent",
+        "Description": "Browser user-agent string recorded by the web application."
+    },
+    "version": {
+        "Description": "Version of the study web application used to administer the task."
+    },
+    "trial_index": {
+        "Description": "Sequential trial or event index assigned by the task application."
+    },
+    "stimulus": {
+        "Description": "Stimulus, instructions, cue, or resource presented; may contain text, HTML, or a resource URL."
+    },
+    "n": {
+        "Description": "N-back load.",
+        "Levels": {
+            "0": "Zero-back",
+            "1": "One-back",
+            "2": "Two-back"
+        }
+    },
+    "sequence": {
+        "Description": "Serialized ordered stimulus sequence."
+    },
+    "missed_indices": {
+        "Description": "Serialized target indices with no recorded response."
+    },
+    "response_0_sequence_index": {
+        "Description": "response 0 sequence index value recorded by the task application."
+    },
+    "response_0_correct": {
+        "Description": "response 0 correct value recorded by the task application."
+    },
+    "response_0_time_from_focus": {
+        "Description": "response 0 time from focus value recorded by the task application."
+    },
+    "response_0_time_from_start": {
+        "Description": "response 0 time from start value recorded by the task application."
+    },
+    "response_1_sequence_index": {
+        "Description": "response 1 sequence index value recorded by the task application."
+    },
+    "response_1_correct": {
+        "Description": "response 1 correct value recorded by the task application."
+    },
+    "response_1_time_from_focus": {
+        "Description": "response 1 time from focus value recorded by the task application."
+    },
+    "response_1_time_from_start": {
+        "Description": "response 1 time from start value recorded by the task application."
+    },
+    "response_2_sequence_index": {
+        "Description": "response 2 sequence index value recorded by the task application."
+    },
+    "response_2_correct": {
+        "Description": "response 2 correct value recorded by the task application."
+    },
+    "response_2_time_from_focus": {
+        "Description": "response 2 time from focus value recorded by the task application."
+    },
+    "response_2_time_from_start": {
+        "Description": "response 2 time from start value recorded by the task application."
+    },
+    "response_3_sequence_index": {
+        "Description": "response 3 sequence index value recorded by the task application."
+    },
+    "response_3_correct": {
+        "Description": "response 3 correct value recorded by the task application."
+    },
+    "response_3_time_from_focus": {
+        "Description": "response 3 time from focus value recorded by the task application."
+    },
+    "response_3_time_from_start": {
+        "Description": "response 3 time from start value recorded by the task application."
+    },
+    "response_4_sequence_index": {
+        "Description": "response 4 sequence index value recorded by the task application."
+    },
+    "response_4_correct": {
+        "Description": "response 4 correct value recorded by the task application."
+    },
+    "response_4_time_from_focus": {
+        "Description": "response 4 time from focus value recorded by the task application."
+    },
+    "response_4_time_from_start": {
+        "Description": "response 4 time from start value recorded by the task application."
+    },
+    "response_5_sequence_index": {
+        "Description": "response 5 sequence index value recorded by the task application."
+    },
+    "response_5_correct": {
+        "Description": "response 5 correct value recorded by the task application."
+    },
+    "response_5_time_from_focus": {
+        "Description": "response 5 time from focus value recorded by the task application."
+    },
+    "response_5_time_from_start": {
+        "Description": "response 5 time from start value recorded by the task application."
+    },
+    "response_6_sequence_index": {
+        "Description": "response 6 sequence index value recorded by the task application."
+    },
+    "response_6_correct": {
+        "Description": "response 6 correct value recorded by the task application."
+    },
+    "response_6_time_from_focus": {
+        "Description": "response 6 time from focus value recorded by the task application."
+    },
+    "response_6_time_from_start": {
+        "Description": "response 6 time from start value recorded by the task application."
+    },
+    "response_7_sequence_index": {
+        "Description": "response 7 sequence index value recorded by the task application."
+    },
+    "response_7_correct": {
+        "Description": "response 7 correct value recorded by the task application."
+    },
+    "response_7_time_from_focus": {
+        "Description": "response 7 time from focus value recorded by the task application."
+    },
+    "response_7_time_from_start": {
+        "Description": "response 7 time from start value recorded by the task application."
+    },
+    "response_8_sequence_index": {
+        "Description": "response 8 sequence index value recorded by the task application."
+    },
+    "response_8_correct": {
+        "Description": "response 8 correct value recorded by the task application."
+    },
+    "response_8_time_from_focus": {
+        "Description": "response 8 time from focus value recorded by the task application."
+    },
+    "response_8_time_from_start": {
+        "Description": "response 8 time from start value recorded by the task application."
+    },
+    "response_9_sequence_index": {
+        "Description": "response 9 sequence index value recorded by the task application."
+    },
+    "response_9_correct": {
+        "Description": "response 9 correct value recorded by the task application."
+    },
+    "response_9_time_from_focus": {
+        "Description": "response 9 time from focus value recorded by the task application."
+    },
+    "response_9_time_from_start": {
+        "Description": "response 9 time from start value recorded by the task application."
+    },
+    "response_10_sequence_index": {
+        "Description": "response 10 sequence index value recorded by the task application."
+    },
+    "response_10_correct": {
+        "Description": "response 10 correct value recorded by the task application."
+    },
+    "response_10_time_from_focus": {
+        "Description": "response 10 time from focus value recorded by the task application."
+    },
+    "response_10_time_from_start": {
+        "Description": "response 10 time from start value recorded by the task application."
+    },
+    "response_11_sequence_index": {
+        "Description": "response 11 sequence index value recorded by the task application."
+    },
+    "response_11_correct": {
+        "Description": "response 11 correct value recorded by the task application."
+    },
+    "response_11_time_from_focus": {
+        "Description": "response 11 time from focus value recorded by the task application."
+    },
+    "response_11_time_from_start": {
+        "Description": "response 11 time from start value recorded by the task application."
+    },
+    "response_12_sequence_index": {
+        "Description": "response 12 sequence index value recorded by the task application."
+    },
+    "response_12_correct": {
+        "Description": "response 12 correct value recorded by the task application."
+    },
+    "response_12_time_from_focus": {
+        "Description": "response 12 time from focus value recorded by the task application."
+    },
+    "response_12_time_from_start": {
+        "Description": "response 12 time from start value recorded by the task application."
+    },
+    "response_13_sequence_index": {
+        "Description": "response 13 sequence index value recorded by the task application."
+    },
+    "response_13_correct": {
+        "Description": "response 13 correct value recorded by the task application."
+    },
+    "response_13_time_from_focus": {
+        "Description": "response 13 time from focus value recorded by the task application."
+    },
+    "response_13_time_from_start": {
+        "Description": "response 13 time from start value recorded by the task application."
+    },
+    "response_14_sequence_index": {
+        "Description": "response 14 sequence index value recorded by the task application."
+    },
+    "response_14_correct": {
+        "Description": "response 14 correct value recorded by the task application."
+    },
+    "response_14_time_from_focus": {
+        "Description": "response 14 time from focus value recorded by the task application."
+    },
+    "response_14_time_from_start": {
+        "Description": "response 14 time from start value recorded by the task application."
+    },
+    "response_15_sequence_index": {
+        "Description": "response 15 sequence index value recorded by the task application."
+    },
+    "response_15_correct": {
+        "Description": "response 15 correct value recorded by the task application."
+    },
+    "response_15_time_from_focus": {
+        "Description": "response 15 time from focus value recorded by the task application."
+    },
+    "response_15_time_from_start": {
+        "Description": "response 15 time from start value recorded by the task application."
+    }
+}
