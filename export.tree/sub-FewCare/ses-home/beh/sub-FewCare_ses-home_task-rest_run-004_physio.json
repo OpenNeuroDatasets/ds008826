@@ -1,0 +1,11 @@
+{
+  "EndDateTime": "2022-12-11T14:30:28-08:00",
+  "DurationMs": 299000,
+  "AvgCoherence": 5.256278069863588,
+  "Stage": 2,
+  "SamplingFrequency": 9999,
+  "StartTime": 0,
+  "Columns": [
+    "RR"
+  ]
+}

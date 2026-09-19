@@ -1,0 +1,244 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	trial_index	stimulus	n	sequence	missed_indices	response_0_sequence_index	response_0_correct	response_0_time_from_focus	response_0_time_from_start
+2023-02-01T22:00:02	False	n/a	22293	n/a	n/a	0	You are now going to complete a training for a task where you will press the space bar for certain numbers. This task is called the n-back. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:10	False	n/a	90829	n/a	n/a	1	This task consists of three different parts. In each part you will see a series of numbers, one at a time. The numbers will be presented in the center of the screen. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:20	False	n/a	100119	n/a	n/a	2	This first task is super simple - you should just press the space bar whenever you see a '1'. Let's give it a try. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:37	False	n/a	117243	n/a	n/a	3	<div class=\"n-back-cue-title\">Zero-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>6</td> <td class=\"n-back-cue-target n-back-cue-highlight\">1</td> <td>7</td> </tr></tbody></table> You are about to start the zero-back task. You will always press the space bar for the number 1 during the zero-back task. <br> <em>Please press \"0\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:42	False	n/a	122649	n/a	n/a	4	n/a	0	['6', '1', '5']	n/a	1	True	400.69999999925494	2203.699999999255
+2023-02-01T22:01:43	False	n/a	123656	n/a	n/a	5	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:44	False	n/a	124676	n/a	n/a	6	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:45	False	n/a	125680	n/a	n/a	7	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:46	False	n/a	126688	n/a	n/a	8	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:47	False	n/a	127697	n/a	n/a	9	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:48	False	n/a	128705	n/a	n/a	10	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:49	False	n/a	129718	n/a	n/a	11	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:01:56	False	n/a	136903	n/a	n/a	12	That's great! This simple task is called the zero-back task because it doesn't require you to think back and compare any digits. <br> <br> In contrast, the next two tasks do require some memory. Ready to try the next one? <br> <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:22	False	n/a	162839	n/a	n/a	13	In the second part of this task, your job is to press the space bar when the number on the screen is the same as the number immediately before the number currently on the screen. <br> <br> For example, if you saw \"5, 7, 7\", you would press the space bar when the second 7 is on the screen. Let's give it a try. <br> <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:27	False	n/a	167260	n/a	n/a	14	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:32	False	n/a	172665	n/a	n/a	15	n/a	1	['3', '2', '2']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:02:33	False	n/a	173673	n/a	n/a	16	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:34	False	n/a	174681	n/a	n/a	17	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:35	False	n/a	175688	n/a	n/a	18	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:36	False	n/a	176697	n/a	n/a	19	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:37	False	n/a	177705	n/a	n/a	20	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:38	False	n/a	178713	n/a	n/a	21	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:39	False	n/a	179720	n/a	n/a	22	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:40	False	n/a	180605	n/a	n/a	23	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:43	False	n/a	183581	n/a	n/a	24	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:48	False	n/a	188993	n/a	n/a	25	n/a	1	['4', '4', '7']	[1]	2	False	450.5	4059.2999999988824
+2023-02-01T22:02:49	False	n/a	190000	n/a	n/a	26	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:50	False	n/a	191008	n/a	n/a	27	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:51	False	n/a	192024	n/a	n/a	28	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:52	False	n/a	193032	n/a	n/a	29	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:54	False	n/a	194040	n/a	n/a	30	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:55	False	n/a	195048	n/a	n/a	31	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:56	False	n/a	196056	n/a	n/a	32	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:02:56	False	n/a	197034	n/a	n/a	33	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:02	False	n/a	202288	n/a	n/a	34	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:07	False	n/a	207696	n/a	n/a	35	n/a	1	['1', '1', '6']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:03:08	False	n/a	208705	n/a	n/a	36	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:09	False	n/a	209712	n/a	n/a	37	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:10	False	n/a	210721	n/a	n/a	38	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:11	False	n/a	211728	n/a	n/a	39	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:12	False	n/a	212736	n/a	n/a	40	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:13	False	n/a	213744	n/a	n/a	41	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:14	False	n/a	214752	n/a	n/a	42	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:15	False	n/a	215706	n/a	n/a	43	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:18	False	n/a	218068	n/a	n/a	44	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:23	False	n/a	223472	n/a	n/a	45	n/a	1	['7', '6', '6']	[2]	0	False	702.0999999996275	702.0999999996275
+2023-02-01T22:03:24	False	n/a	224480	n/a	n/a	46	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:25	False	n/a	225489	n/a	n/a	47	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:26	False	n/a	226497	n/a	n/a	48	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:27	False	n/a	227505	n/a	n/a	49	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:28	False	n/a	228512	n/a	n/a	50	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:29	False	n/a	229521	n/a	n/a	51	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:30	False	n/a	230528	n/a	n/a	52	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:31	False	n/a	231390	n/a	n/a	53	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:33	False	n/a	233423	n/a	n/a	54	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:38	False	n/a	238832	n/a	n/a	55	n/a	1	['9', '4', '4']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:03:39	False	n/a	239840	n/a	n/a	56	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:40	False	n/a	240849	n/a	n/a	57	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:41	False	n/a	241856	n/a	n/a	58	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:42	False	n/a	242865	n/a	n/a	59	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:43	False	n/a	243873	n/a	n/a	60	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:44	False	n/a	244880	n/a	n/a	61	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:45	False	n/a	245888	n/a	n/a	62	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:48	False	n/a	248479	n/a	n/a	63	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:51	False	n/a	251715	n/a	n/a	64	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:57	False	n/a	257121	n/a	n/a	65	n/a	1	['1', '1', '5']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:03:58	False	n/a	258129	n/a	n/a	66	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:03:59	False	n/a	259137	n/a	n/a	67	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:00	False	n/a	260144	n/a	n/a	68	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:01	False	n/a	261152	n/a	n/a	69	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:02	False	n/a	262173	n/a	n/a	70	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:03	False	n/a	263177	n/a	n/a	71	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:04	False	n/a	264193	n/a	n/a	72	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:05	False	n/a	265521	n/a	n/a	73	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:07	False	n/a	267934	n/a	n/a	74	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:13	False	n/a	273344	n/a	n/a	75	n/a	1	['5', '4', '4']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:04:14	False	n/a	274352	n/a	n/a	76	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:15	False	n/a	275361	n/a	n/a	77	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:16	False	n/a	276368	n/a	n/a	78	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:17	False	n/a	277377	n/a	n/a	79	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:18	False	n/a	278385	n/a	n/a	80	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:19	False	n/a	279393	n/a	n/a	81	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:20	False	n/a	280401	n/a	n/a	82	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:21	False	n/a	281070	n/a	n/a	83	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:46	False	n/a	306728	n/a	n/a	84	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:52	False	n/a	312136	n/a	n/a	85	n/a	1	['9', '9', '5']	[1]	2	False	382.59999999962747	3986.9000000003725
+2023-02-01T22:04:53	False	n/a	313145	n/a	n/a	86	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:54	False	n/a	314153	n/a	n/a	87	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:55	False	n/a	315160	n/a	n/a	88	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:56	False	n/a	316168	n/a	n/a	89	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:57	False	n/a	317177	n/a	n/a	90	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:58	False	n/a	318184	n/a	n/a	91	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:59	False	n/a	319192	n/a	n/a	92	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:04:59	False	n/a	320029	n/a	n/a	93	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:03	False	n/a	323214	n/a	n/a	94	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:08	False	n/a	328624	n/a	n/a	95	n/a	1	['2', '1', '1']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:05:09	False	n/a	329632	n/a	n/a	96	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:10	False	n/a	330641	n/a	n/a	97	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:11	False	n/a	331649	n/a	n/a	98	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:12	False	n/a	332656	n/a	n/a	99	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:13	False	n/a	333665	n/a	n/a	100	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:14	False	n/a	334673	n/a	n/a	101	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:15	False	n/a	335680	n/a	n/a	102	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:16	False	n/a	336695	n/a	n/a	103	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:21	False	n/a	341394	n/a	n/a	104	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:26	False	n/a	346802	n/a	n/a	105	n/a	1	['3', '3', '5']	[1]	2	False	618.5	4221.9000000003725
+2023-02-01T22:05:27	False	n/a	347809	n/a	n/a	106	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:28	False	n/a	348816	n/a	n/a	107	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:29	False	n/a	349825	n/a	n/a	108	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:30	False	n/a	350832	n/a	n/a	109	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:31	False	n/a	351841	n/a	n/a	110	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:32	False	n/a	352849	n/a	n/a	111	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:33	False	n/a	353856	n/a	n/a	112	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:42	False	n/a	362741	n/a	n/a	113	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:49	False	n/a	369842	n/a	n/a	114	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:55	False	n/a	375248	n/a	n/a	115	n/a	1	['5', '5', '8']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:05:56	False	n/a	376256	n/a	n/a	116	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:57	False	n/a	377265	n/a	n/a	117	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:58	False	n/a	378272	n/a	n/a	118	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:05:59	False	n/a	379280	n/a	n/a	119	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:00	False	n/a	380289	n/a	n/a	120	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:01	False	n/a	381297	n/a	n/a	121	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:02	False	n/a	382304	n/a	n/a	122	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:04	False	n/a	384405	n/a	n/a	123	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:08	False	n/a	388854	n/a	n/a	124	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:14	False	n/a	394264	n/a	n/a	125	n/a	1	['4', '6', '6']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:06:15	False	n/a	395272	n/a	n/a	126	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:16	False	n/a	396280	n/a	n/a	127	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:17	False	n/a	397288	n/a	n/a	128	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:18	False	n/a	398297	n/a	n/a	129	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:19	False	n/a	399304	n/a	n/a	130	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:20	False	n/a	400312	n/a	n/a	131	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:06:21	False	n/a	401320	n/a	n/a	132	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:07:15	False	n/a	455806	n/a	n/a	133	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:49	False	n/a	1029145	n/a	n/a	134	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:54	False	n/a	1034553	n/a	n/a	135	n/a	1	['2', '2', '9']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:16:55	False	n/a	1035560	n/a	n/a	136	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:56	False	n/a	1036584	n/a	n/a	137	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:57	False	n/a	1037593	n/a	n/a	138	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:58	False	n/a	1038605	n/a	n/a	139	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:16:59	False	n/a	1039617	n/a	n/a	140	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:17:00	False	n/a	1040625	n/a	n/a	141	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:17:01	False	n/a	1041634	n/a	n/a	142	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:18:44	False	n/a	1144072	n/a	n/a	143	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:18:51	False	n/a	1152031	n/a	n/a	144	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:18:57	False	n/a	1157440	n/a	n/a	145	n/a	1	['7', '8', '8']	[2]	1	False	72.80000000074506	1878
+2023-02-01T22:18:58	False	n/a	1158449	n/a	n/a	146	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:18:59	False	n/a	1159457	n/a	n/a	147	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:00	False	n/a	1160465	n/a	n/a	148	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:01	False	n/a	1161473	n/a	n/a	149	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:02	False	n/a	1162481	n/a	n/a	150	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:03	False	n/a	1163488	n/a	n/a	151	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:04	False	n/a	1164497	n/a	n/a	152	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:05	False	n/a	1166017	n/a	n/a	153	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:07	False	n/a	1167960	n/a	n/a	154	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:13	False	n/a	1173368	n/a	n/a	155	n/a	1	['2', '2', '6']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:19:14	False	n/a	1174377	n/a	n/a	156	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:15	False	n/a	1175384	n/a	n/a	157	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:16	False	n/a	1176392	n/a	n/a	158	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:17	False	n/a	1177400	n/a	n/a	159	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:18	False	n/a	1178409	n/a	n/a	160	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:19	False	n/a	1179416	n/a	n/a	161	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:20	False	n/a	1180424	n/a	n/a	162	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:22	False	n/a	1182405	n/a	n/a	163	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:24	False	n/a	1184677	n/a	n/a	164	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:30	False	n/a	1190088	n/a	n/a	165	n/a	1	['5', '9', '9']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:19:31	False	n/a	1191096	n/a	n/a	166	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:32	False	n/a	1192104	n/a	n/a	167	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:33	False	n/a	1193113	n/a	n/a	168	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:34	False	n/a	1194120	n/a	n/a	169	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:35	False	n/a	1195129	n/a	n/a	170	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:36	False	n/a	1196136	n/a	n/a	171	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:19:37	False	n/a	1197155	n/a	n/a	172	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:06	False	n/a	1406545	n/a	n/a	173	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:08	False	n/a	1408496	n/a	n/a	174	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:13	False	n/a	1413904	n/a	n/a	175	n/a	1	['9', '9', '2']	[1]	n/a	n/a	n/a	n/a
+2023-02-01T22:23:14	False	n/a	1414913	n/a	n/a	176	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:15	False	n/a	1415921	n/a	n/a	177	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:16	False	n/a	1416929	n/a	n/a	178	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:17	False	n/a	1417937	n/a	n/a	179	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:18	False	n/a	1418945	n/a	n/a	180	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:19	False	n/a	1419952	n/a	n/a	181	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:20	False	n/a	1420960	n/a	n/a	182	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:21	False	n/a	1421436	n/a	n/a	183	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:22	False	n/a	1422542	n/a	n/a	184	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:27	False	n/a	1427952	n/a	n/a	185	n/a	1	['5', '5', '1']	[1]	2	False	1015.8000000007451	4624.9000000003725
+2023-02-01T22:23:28	False	n/a	1428960	n/a	n/a	186	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:29	False	n/a	1429969	n/a	n/a	187	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:30	False	n/a	1430978	n/a	n/a	188	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:31	False	n/a	1431984	n/a	n/a	189	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:32	False	n/a	1433000	n/a	n/a	190	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:33	False	n/a	1434008	n/a	n/a	191	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:34	False	n/a	1435017	n/a	n/a	192	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:36	False	n/a	1436676	n/a	n/a	193	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:39	False	n/a	1439751	n/a	n/a	194	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:45	False	n/a	1445161	n/a	n/a	195	n/a	1	['9', '9', '1']	[1]	2	False	506.8999999985099	4117.299999998882
+2023-02-01T22:23:46	False	n/a	1446169	n/a	n/a	196	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:47	False	n/a	1447176	n/a	n/a	197	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:48	False	n/a	1448185	n/a	n/a	198	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:49	False	n/a	1449193	n/a	n/a	199	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:50	False	n/a	1450201	n/a	n/a	200	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:51	False	n/a	1451209	n/a	n/a	201	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:52	False	n/a	1452216	n/a	n/a	202	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:23:55	False	n/a	1455041	n/a	n/a	203	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:00	False	n/a	1460788	n/a	n/a	204	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:06	False	n/a	1466200	n/a	n/a	205	n/a	1	['8', '2', '2']	[2]	n/a	n/a	n/a	n/a
+2023-02-01T22:24:07	False	n/a	1467209	n/a	n/a	206	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:08	False	n/a	1468217	n/a	n/a	207	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:09	False	n/a	1469224	n/a	n/a	208	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:10	False	n/a	1470233	n/a	n/a	209	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:11	False	n/a	1471240	n/a	n/a	210	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:12	False	n/a	1472250	n/a	n/a	211	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:24:13	False	n/a	1473256	n/a	n/a	212	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:25	False	n/a	1545050	n/a	n/a	213	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:26	False	n/a	1546497	n/a	n/a	214	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:31	False	n/a	1551905	n/a	n/a	215	n/a	1	['7', '2', '2']	[2]	0	False	955.4000000003725	955.4000000003725
+2023-02-01T22:25:32	False	n/a	1552913	n/a	n/a	216	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:33	False	n/a	1553921	n/a	n/a	217	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:34	False	n/a	1554928	n/a	n/a	218	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:35	False	n/a	1555937	n/a	n/a	219	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:36	False	n/a	1556945	n/a	n/a	220	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:37	False	n/a	1557953	n/a	n/a	221	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:25:38	False	n/a	1558961	n/a	n/a	222	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:17	False	n/a	1837945	n/a	n/a	223	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:20	False	n/a	1840362	n/a	n/a	224	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:25	False	n/a	1845769	n/a	n/a	225	n/a	1	['1', '1', '2']	[1]	2	False	991.3000000007451	4594.10000000149
+2023-02-01T22:30:26	False	n/a	1846776	n/a	n/a	226	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:27	False	n/a	1847784	n/a	n/a	227	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:28	False	n/a	1848793	n/a	n/a	228	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:29	False	n/a	1849801	n/a	n/a	229	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:30	False	n/a	1850808	n/a	n/a	230	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:31	False	n/a	1851817	n/a	n/a	231	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:30:32	False	n/a	1852824	n/a	n/a	232	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:13	False	n/a	2013344	n/a	n/a	233	Please try again. <br> <em>Press the space bar to continue.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:14	False	n/a	2014277	n/a	n/a	234	<div class=\"n-back-cue-title\">One-Back</div> <table class=\"n-back-cue-table\"><tbody><tr> <td>5</td> <td class=\"n-back-cue-highlight\">7</td> <td class=\"n-back-cue-target n-back-cue-highlight\">7</td> </tr></tbody></table> You are about to start the one-back task. <br> <em>Please press \"1\" to start the trial.</em> 	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:19	False	n/a	2019688	n/a	n/a	235	n/a	1	['2', '5', '5']	[2]	1	False	704.3000000007451	2512
+2023-02-01T22:33:20	False	n/a	2020697	n/a	n/a	236	<em>Please wait for 7 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:21	False	n/a	2021704	n/a	n/a	237	<em>Please wait for 6 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:22	False	n/a	2022713	n/a	n/a	238	<em>Please wait for 5 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:23	False	n/a	2023720	n/a	n/a	239	<em>Please wait for 4 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:24	False	n/a	2024729	n/a	n/a	240	<em>Please wait for 3 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:25	False	n/a	2025737	n/a	n/a	241	<em>Please wait for 2 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-02-01T22:33:26	False	n/a	2026745	n/a	n/a	242	<em>Please wait for 1 seconds...</em>	n/a	n/a	n/a	n/a	n/a	n/a	n/a

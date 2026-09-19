@@ -1,0 +1,3 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	Q0	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8
+2023-06-12T20:12:08	True	1536x864	56387	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	1.9.7	0	0	1	2	0	0	0	2	n/a
+2023-06-12T20:12:17	True	1536x864	65917	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	1.9.7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1

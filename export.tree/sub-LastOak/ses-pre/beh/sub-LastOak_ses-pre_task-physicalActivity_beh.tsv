@@ -1,0 +1,2 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	activity_level	weight	height_feet	height_inches	age	gender
+2023-07-12T01:43:23	True	1920x1080	89570	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	1.9.7	1	125	5	3	66	1

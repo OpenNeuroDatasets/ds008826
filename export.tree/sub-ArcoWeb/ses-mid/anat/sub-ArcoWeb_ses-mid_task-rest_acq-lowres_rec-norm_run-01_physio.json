@@ -1,0 +1,12 @@
+{
+  "SamplingFrequency": 2500,
+  "StartTime": 0,
+  "Columns": [
+    "cardiac"
+  ],
+  "Manufacturer": "BioPac",
+  "cardiac": {
+    "Description": "PPG / continuous pulse measurement",
+    "Units": "a.u."
+  }
+}

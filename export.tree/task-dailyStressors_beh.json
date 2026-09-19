@@ -1,0 +1,53 @@
+{
+    "TaskName": "Daily Stressors",
+    "TaskDescription": "Survey assessing stressful events experienced during the specified reporting period.",
+    "date_time": {
+        "Description": "UTC date and time at which the record was created.",
+        "Format": "datetime"
+    },
+    "is_relevant": {
+        "Description": "Whether the row contains a task-relevant observation rather than instructions, a cue, or another non-scored event.",
+        "Levels": {
+            "True": "Task-relevant row",
+            "False": "Non-scored or contextual row"
+        }
+    },
+    "screen_size": {
+        "Description": "Screen dimensions reported by the web application in width-by-height pixels."
+    },
+    "time_elapsed_ms": {
+        "Description": "Elapsed time from task start when the record was created.",
+        "Units": "ms"
+    },
+    "ua": {
+        "LongName": "User agent",
+        "Description": "Browser user-agent string recorded by the web application."
+    },
+    "version": {
+        "Description": "Version of the study web application used to administer the task."
+    },
+    "Q0": {
+        "Description": "Number of stressors reported, using the original task coding."
+    },
+    "Q1": {
+        "Description": "Q1 value recorded by the task application."
+    },
+    "Q2": {
+        "Description": "Q2 value recorded by the task application."
+    },
+    "Q3": {
+        "Description": "Q3 value recorded by the task application."
+    },
+    "Q4": {
+        "Description": "Q4 value recorded by the task application."
+    },
+    "Q5": {
+        "Description": "Q5 value recorded by the task application."
+    },
+    "Q6": {
+        "Description": "Q6 value recorded by the task application."
+    },
+    "Q7": {
+        "Description": "Q7 value recorded by the task application."
+    }
+}

@@ -1,0 +1,3 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	Q0	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8
+2023-07-27T22:44:58	True	1440x900	67659	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15	1.9.7	0	0	1	2	0	0	0	3	n/a
+2023-07-27T22:45:09	True	1440x900	77721	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15	1.9.7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0
