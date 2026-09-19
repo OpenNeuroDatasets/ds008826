@@ -1,3 +1,0 @@
-date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	Q0	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8
-2023-06-09T23:55:49	True	1920x1080	82193	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0	1.9.7	0	0	0	2	0	1	0	3	n/a
-2023-06-09T23:56:00	True	1920x1080	92985	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0	1.9.7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5
