@@ -1,0 +1,3 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	Q0	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8
+2023-03-16T18:19:40	True	2560x1440	62487	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36	1.8.8	1	0	2	2	0	1	0	2	n/a
+2023-03-16T18:19:55	True	2560x1440	77360	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36	1.8.8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
