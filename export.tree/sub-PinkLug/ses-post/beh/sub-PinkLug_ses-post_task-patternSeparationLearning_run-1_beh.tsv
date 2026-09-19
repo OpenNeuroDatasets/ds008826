@@ -1,0 +1,11 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	trial_index	stimulus	is_learning	is_practice	pic	type	response	response_time_ms	failed_images
+2023-10-01T02:47:26	False	n/a	1574	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	[]
+2023-10-01T02:47:50	False	n/a	25604	n/a	n/a	2	<h2>Pattern Separation Task</h2> <p> You are about to start a new task. In this task, you will first view pictures of common objects. You will see each object twice. For the first round you will be asked, \\\"Will the object fit inside a lady's medium shoe box?\\\" For the second round you will be asked, \\\"Can you carry the object across the room using only your right hand?\\\" After answering these questions for all objects you will be given a memory test later. </p> <em>Please press the space bar to continue.</em>	n/a	n/a	n/a	n/a	n/a	24028	n/a
+2023-10-01T02:48:24	False	n/a	58802	n/a	n/a	3	<h2>Pattern Separation Task</h2> <p> Before we begin the actual task, let's try a few practice trials. In the practice trials, you will see 4 objects twice. Please answer the question presented underneath the object by pressing \\\"y\\\" for \\\"yes\\\" or \\\"n\\\" for \\\"no\\\" and try to remember them for a later memory test. </p> <em>Please press the space bar to continue.</em>	n/a	n/a	n/a	n/a	n/a	33193	n/a
+2023-10-01T02:48:31	False	n/a	66716	n/a	n/a	4	<h2>Round 1</h2><div>Will the object fit inside a lady's medium shoe box?</div><em>Please press the space bar to continue</em>	n/a	n/a	n/a	n/a	n/a	7907	n/a
+2023-10-01T02:48:34	True	n/a	69738	n/a	n/a	5	https://d3vowlh1lzbs4j.cloudfront.net/pat/pamphlet1.jpg	True	True	pamphlet1.jpg	Target	n/a	n/a	n/a
+2023-10-01T02:48:35	False	n/a	70546	n/a	n/a	6	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-10-01T02:48:38	True	n/a	73562	n/a	n/a	7	https://d3vowlh1lzbs4j.cloudfront.net/pat/violin1.jpg	True	True	violin1.jpg	Target	y	2570	n/a
+2023-10-01T02:48:41	True	n/a	76580	n/a	n/a	8	https://d3vowlh1lzbs4j.cloudfront.net/pat/Wagon_1.jpg	True	True	Wagon_1.jpg	Target	n/a	n/a	n/a
+2023-10-01T02:48:42	False	n/a	77387	n/a	n/a	9	Answer faster next time	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+2023-10-01T02:48:45	True	n/a	80398	n/a	n/a	10	https://d3vowlh1lzbs4j.cloudfront.net/pat/typewritter1.jpg	True	True	typewritter1.jpg	Target	n	1220	n/a

@@ -1,0 +1,15 @@
+{
+    "TaskName": "lumosity",
+    "TaskDescription": "Daily engagement summary for at-home Lumosity cognitive training sessions.",
+    "date_utc": {
+        "Description": "Calendar date (UTC) on which the participant's Lumosity home-session activity was recorded",
+        "Format": "date"
+    },
+    "num_games": {
+        "Description": "Number of individual Lumosity games played by the participant on this date"
+    },
+    "playtime_in_seconds": {
+        "Description": "Total time the participant spent playing Lumosity games on this date",
+        "Units": "s"
+    }
+}
