@@ -18,4 +18,4 @@ Nashiro, K., Min, J., Yoo, H. J., Cho, C., Dahl, M. J., Choi, P., Lee, H. R. J.,
 
 Nashiro, K., Yoo, H. J., Cho, C., Kim, A. J., Nasseri, P., Min, J., ... & Mather, M. (2024). Heart rate and breathing effects on attention and memory (HeartBEAM): study protocol for a randomized controlled trial in older adults. Trials, 25(1), 190. https://doi.org/10.1186/s13063-024-07943-y
 
-Kim, A. J., Morales, S., Senior, J., & Mather, M. (2025). Electroencephalography, pupillometry, and behavioral evidence for locus coeruleus-noradrenaline system related tonic hyperactivity in older adults. Preprint: doi.org/10.1101/2025.10.02.680040
+Kim, A. J., Morales, S., Senior, J., & Mather, M. (2026). Electroencephalography, pupillometry, and behavioral evidence for locus coeruleus-noradrenaline system related tonic hyperactivity in older adults. Neurobiology of Aging, 159, 15–32. https://doi.org/10.1016/j.neurobiolaging.2025.11.008.
