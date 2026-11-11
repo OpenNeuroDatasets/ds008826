@@ -1,0 +1,2 @@
+date_time	is_relevant	screen_size	time_elapsed_ms	ua	version	activity_level	weight	height_feet	height_inches	age	gender
+2023-02-21T19:03:29	True	1920x1080	72885	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36	1.7.0	7	236	6	1	65	0
