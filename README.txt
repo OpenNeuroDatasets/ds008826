@@ -10,10 +10,10 @@ Study Type: Interventional (Clinical Trial) Actual Enrollment: 91 participants (
 ##### Primary Purpose: Basic Science 
 ##### Official Title: Heart Rate and Breathing Effects on Attention and Memory
 
-### Data Availability
+#### Data Availability
 EEG data collected during the auditory oddball task are available as a separate dataset on OpenNeuro: HeartBEAM: Older Adult Resting State and Auditory Oddball Task EEG Data, ds006466 (https://openneuro.org/datasets/ds006466).
 
-### Publications using this dataset:
+#### Publications using this dataset:
 Nashiro, K., Min, J., Yoo, H. J., Cho, C., Dahl, M. J., Choi, P., Lee, H. R. J., Choupan, J., Mercer, N., Nasseri, P., Kim, A. J., Alemu, K., Rose, N. F., Herrera, A. Y., Custer, R., Werkle-Bergner, M., Thayer, J. F., Sordo, L., Head, E., & Mather, M. (2026). Testing effects of paced breathing on plasma Aβ and brain perivascular spaces. International Journal of Psychophysiology, 221, 113334. https://doi.org/10.1016/j.ijpsycho.2026.113334
 
 Nashiro, K., Yoo, H. J., Cho, C., Kim, A. J., Nasseri, P., Min, J., ... & Mather, M. (2024). Heart rate and breathing effects on attention and memory (HeartBEAM): study protocol for a randomized controlled trial in older adults. Trials, 25(1), 190. https://doi.org/10.1186/s13063-024-07943-y
