@@ -1,0 +1,11 @@
+{
+  "EndDateTime": "2023-02-28T11:27:23-08:00",
+  "DurationMs": 292000,
+  "AvgCoherence": 1.4018977456149124,
+  "Stage": 1,
+  "SamplingFrequency": 9999,
+  "StartTime": 0,
+  "Columns": [
+    "RR"
+  ]
+}
